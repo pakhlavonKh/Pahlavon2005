@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pahlavon2005
+- 👋 Hi, I’m @Pakhlavon
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning JavaScript
 
 <!---
-Pahlavon2005/Pahlavon2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pakhlavon/Pakhlavon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
